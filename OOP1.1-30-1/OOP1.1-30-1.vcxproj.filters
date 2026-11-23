@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OOP1.1-30-1.cpp">
+    <ClCompile Include="CharacterCreator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
