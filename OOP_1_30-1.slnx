@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="OOP1.1-30-1/OOP1.1-30-1.vcxproj" Id="9b57b1d0-5b56-47f6-88ec-0d793ba295f5" />
+  <Project Path="OOP_1.2_30-1/OOP_1.2_30-1.vcxproj" Id="c16fa82b-549e-45b5-920f-b655d2ea62bb" />
 </Solution>
